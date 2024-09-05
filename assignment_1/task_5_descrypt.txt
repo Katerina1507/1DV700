@@ -1,0 +1,15 @@
+Secret message - Top Secret
+May only be read by security passed personne
+
+Cybersecurity, computer security or IT security is the protection of computer systems from the theft and damage to their hardware, 
+software or information, as well as from disruption or misdirection of the services they provide.
+Cybersecurity includes controllingphysical access to the hardware, as well as protecting against harm that may come via network access,
+data and code injection.
+Also, due to malpractice by operators, whether intentional or accidental,
+IT security is susceptible to being tricked into deviating from secure procedures through various methods.
+The field is of growing importance due to the increasing reliance on computer systems and the Internet,
+wireless networks such as Bluetooth and Wi-Fi, the growth of "smart" devices, including smartphones,
+televisions and tiny devices as part of the Internet of Things. 
+
+
+         
